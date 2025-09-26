@@ -7,3 +7,8 @@ Kurze Beschreibung des Projektes:
 - Lessons Learned
     - Anlegen GitRepo mit .gitignore und README
     - Basic Workflow git <-> Github
+
+
+     Aenderungen durchgefuehrt
+
+  
